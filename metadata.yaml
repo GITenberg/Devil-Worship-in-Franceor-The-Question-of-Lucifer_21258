@@ -1,0 +1,34 @@
+_repo: Devil-Worship-in-Franceor-The-Question-of-Lucifer_21258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waite, Arthur Edward
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '9806'
+    url: http://www.gutenberg.org/2009/agents/9806
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Edward_Waite
+description: The term Modern Satanism is not intended to signify the development of
+  some new aspect of old doctrine concerning demonology, or some new argument for
+  the personification of the evil principle in universal nature. It is intended to
+  signify the alleged revival, or, at least, the reappearance to some extent in public,
+  of a cultus diabolicus, or formal religion of the devil, the existence of which,
+  in the middle ages, is registered by the known facts of the Black Sabbath, a department,
+  however, of historical research, to which full justice yet remains to be done. By
+  the hypothesis, su.
+gutenberg_issued: '2007-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satanism'
+- !lcc 'BF'
+title: Devil-Worship in France; or, The Question of Lucifer
+url: http://www.gutenberg.org/ebooks/21258
